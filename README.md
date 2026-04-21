@@ -10,7 +10,7 @@ https://dortania.github.io/OpenCore-Install-Guide/ (Remember to update the EFI w
 
 # Hardware
 - Processor: Intel i5-10500
-- GPU: Radeon Pro W6800
+- GPU: Intel IGPU
 - Mobo: Gigabyte Z490 UD
 - SSD: 1TB Samsung 990 Pro
 - RAM: 2x32GB CORSAIR DDR4 VENGEANCE RAM 3200Mhz
